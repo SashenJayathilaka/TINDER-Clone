@@ -93,8 +93,8 @@ npm run build
 firebase deploy
 ```
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="250"  src="https://user-images.githubusercontent.com/99184393/177943745-8f0add64-0b94-46a2-85b7-8e25416c192f.png">
-  <img align="center" alt="React" height="250"  src="https://user-images.githubusercontent.com/99184393/177943498-e0354b0a-40f6-4070-9580-1b3d4a8dc84f.png">
-   <img align="center" alt="React" height="250"  src="https://user-images.githubusercontent.com/99184393/177944331-c158ef6b-0521-4bfc-9925-c77419cbf215.png">
+  <img align="center" alt="React" height="200"  src="https://user-images.githubusercontent.com/99184393/177943745-8f0add64-0b94-46a2-85b7-8e25416c192f.png">
+  <img align="center" alt="React" height="200"  src="https://user-images.githubusercontent.com/99184393/177943498-e0354b0a-40f6-4070-9580-1b3d4a8dc84f.png">
+   <img align="center" alt="React" height="200"  src="https://user-images.githubusercontent.com/99184393/177944331-c158ef6b-0521-4bfc-9925-c77419cbf215.png">
 </div>
 
