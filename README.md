@@ -59,7 +59,10 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
+<div style="display: inline_block"><br>
+    <img align="center" alt="React" height="250"  src="https://drive.google.com/uc?export=download&id=1mlmlnu2ay3fqJHCcurgcKSb1K3U3t4lY">
+ </div><br>
+ 
 ```
 npm i react-tinder-card
 ```
@@ -97,4 +100,3 @@ firebase deploy
   <img align="center" alt="React" height="200"  src="https://user-images.githubusercontent.com/99184393/177943498-e0354b0a-40f6-4070-9580-1b3d4a8dc84f.png">
    <img align="center" alt="React" height="200"  src="https://user-images.githubusercontent.com/99184393/177944331-c158ef6b-0521-4bfc-9925-c77419cbf215.png">
 </div>
-
